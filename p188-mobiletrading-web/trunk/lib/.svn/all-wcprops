@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib
+END
+axis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/axis.jar
+END
+javassist.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/javassist.jar
+END
+wsdl4j-1.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/wsdl4j-1.5.1.jar
+END
+slf4j-simple-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/slf4j-simple-1.6.1.jar
+END
+commons-discovery-0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/commons-discovery-0.2.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/dom4j-1.6.1.jar
+END
+jta.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/jta.jar
+END
+cglib-2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/cglib-2.2.jar
+END
+ejb3-persistence-x.y.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/ejb3-persistence-x.y.jar
+END
+hibernate-annotations-3.4.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/hibernate-annotations-3.4.0.GA.jar
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/mail.jar
+END
+axis-ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/axis-ant.jar
+END
+hsqldb-1.8.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/hsqldb-1.8.0.7.jar
+END
+asm-all-3.3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/asm-all-3.3.1.jar
+END
+hibernate-tools-3.2.3.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/hibernate-tools-3.2.3.GA.jar
+END
+commons-collections-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/commons-collections-3.2.jar
+END
+jaxrpc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/jaxrpc.jar
+END
+hibernate-core-3.3.0.SP1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/hibernate-core-3.3.0.SP1.jar
+END
+hibernate-commons-annotations-3.1.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/hibernate-commons-annotations-3.1.0.GA.jar
+END
+antlr-2.7.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/antlr-2.7.6.jar
+END
+slf4j-api-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/slf4j-api-1.6.1.jar
+END
+hibernate-3.2.7.ga.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/hibernate-3.2.7.ga.jar
+END
+commons-logging-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/commons-logging-1.1.jar
+END
+hibernate-tools.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/hibernate-tools.jar
+END
+mysql-connector-java-5.1.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/mysql-connector-java-5.1.13.jar
+END
+activation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/activation.jar
+END
+log4j-1.2.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/log4j-1.2.15.jar
+END
+axis-schema.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/axis-schema.jar
+END
+spring.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/spring.jar
+END
+slf4j-log4j12-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/lib/slf4j-log4j12-1.6.1.jar
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/p188-mobiletrading-web/!svn/ver/6/trunk/src/com/sefryek/broker/state
+END
+response_ar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/state/response_ar
+END
+response_en
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/state/response_en
+END
+response_fa
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/state/response_fa
+END
+LoginMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/state/LoginMessage.java
+END
+TradingMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/state/TradingMessage.java
+END

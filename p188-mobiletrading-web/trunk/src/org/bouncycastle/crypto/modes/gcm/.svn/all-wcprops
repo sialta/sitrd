@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/modes/gcm
+END
+BasicGCMMultiplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/modes/gcm/BasicGCMMultiplier.java
+END
+GCMUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/modes/gcm/GCMUtil.java
+END
+GCMExponentiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/modes/gcm/GCMExponentiator.java
+END
+BasicGCMExponentiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/modes/gcm/BasicGCMExponentiator.java
+END
+Tables8kGCMMultiplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/modes/gcm/Tables8kGCMMultiplier.java
+END
+GCMMultiplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/modes/gcm/GCMMultiplier.java
+END
+Tables1kGCMExponentiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/modes/gcm/Tables1kGCMExponentiator.java
+END
+Tables64kGCMMultiplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/modes/gcm/Tables64kGCMMultiplier.java
+END

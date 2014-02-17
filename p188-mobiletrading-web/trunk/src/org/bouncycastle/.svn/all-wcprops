@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle
+END
+LICENSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/LICENSE.java
+END
+AESEncryption.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/AESEncryption.java
+END
+BlowFish.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/BlowFish.java
+END

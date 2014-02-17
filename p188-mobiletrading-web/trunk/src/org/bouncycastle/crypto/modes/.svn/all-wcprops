@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/modes
+END
+CTSBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/modes/CTSBlockCipher.java
+END
+AEADBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/modes/AEADBlockCipher.java
+END
+CFBBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/modes/CFBBlockCipher.java
+END
+GOFBBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/modes/GOFBBlockCipher.java
+END
+SICBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/modes/SICBlockCipher.java
+END
+PGPCFBBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/modes/PGPCFBBlockCipher.java
+END
+OpenPGPCFBBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/modes/OpenPGPCFBBlockCipher.java
+END
+GCMBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/modes/GCMBlockCipher.java
+END
+OFBBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/modes/OFBBlockCipher.java
+END
+CBCBlockCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/modes/CBCBlockCipher.java
+END

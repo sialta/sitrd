@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/pool/JDBCConnectionPool
+END
+JDCConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/pool/JDBCConnectionPool/JDCConnection.java
+END
+ConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/pool/JDBCConnectionPool/ConnectionFactory.java
+END
+JDCConnectionPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/pool/JDBCConnectionPool/JDCConnectionPool.java
+END
+JDCConnectionDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/pool/JDBCConnectionPool/JDCConnectionDriver.java
+END
+ConnectionReaper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/pool/JDBCConnectionPool/ConnectionReaper.java
+END

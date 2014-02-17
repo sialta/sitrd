@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/db
+END
+01-set-params.bat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/db/01-set-params.bat
+END
+query charachter and collection resolving problem.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/db/query%20charachter%20and%20collection%20resolving%20problem.txt
+END
+15-DEV-run-10-user.bat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/db/15-DEV-run-10-user.bat
+END
+18-DEV-run-51-seed-data.bat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/db/18-DEV-run-51-seed-data.bat
+END
+19-DEV-run-12-data.bat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/db/19-DEV-run-12-data.bat
+END
+12-seed-data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/db/12-seed-data.sql
+END
+10-DEV-user.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/db/10-DEV-user.sql
+END
+15-DEV-run-50-schema.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/db/15-DEV-run-50-schema.bat
+END
+17-DEV-run-50-schema.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/db/17-DEV-run-50-schema.bat
+END
+16-DEV-run-11-db.bat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/db/16-DEV-run-11-db.bat
+END
+99-cmd_run.bat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/db/99-cmd_run.bat
+END
+01-schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/db/01-schema.sql
+END
+11-DEV-db.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/db/11-DEV-db.sql
+END
+20-DEV-run-10-user.bat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/db/20-DEV-run-10-user.bat
+END

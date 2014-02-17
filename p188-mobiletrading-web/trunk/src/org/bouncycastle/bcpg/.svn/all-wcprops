@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg
+END
+SignatureSubpacketInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/SignatureSubpacketInputStream.java
+END
+SignatureSubpacketTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/SignatureSubpacketTags.java
+END
+SignatureSubpacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/SignatureSubpacket.java
+END
+BCPGKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/BCPGKey.java
+END
+ArmoredInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/ArmoredInputStream.java
+END
+ArmoredOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/ArmoredOutputStream.java
+END
+PacketTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/PacketTags.java
+END
+CompressionAlgorithmTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/CompressionAlgorithmTags.java
+END
+Packet.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/Packet.java
+END
+HashAlgorithmTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/HashAlgorithmTags.java
+END
+SymmetricKeyAlgorithmTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/SymmetricKeyAlgorithmTags.java
+END
+CRC24.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/CRC24.java
+END

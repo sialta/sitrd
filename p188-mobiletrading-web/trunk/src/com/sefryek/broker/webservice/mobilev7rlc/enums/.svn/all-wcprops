@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7rlc/enums
+END
+MarketActivityResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7rlc/enums/MarketActivityResponse.java
+END
+MessageListResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7rlc/enums/MessageListResponse.java
+END
+WatchListResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7rlc/enums/WatchListResponse.java
+END
+MainIndicesResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7rlc/enums/MainIndicesResponse.java
+END
+QueueResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7rlc/enums/QueueResponse.java
+END
+BestOfMarketResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7rlc/enums/BestOfMarketResponse.java
+END
+MessageDetailResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7rlc/enums/MessageDetailResponse.java
+END

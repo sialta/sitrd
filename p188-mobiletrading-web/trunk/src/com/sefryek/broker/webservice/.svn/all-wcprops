@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/p188-mobiletrading-web/!svn/ver/29/trunk/src/com/sefryek/broker/webservice
+END
+MessageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/webservice/MessageManager.java
+END
+Globals.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/webservice/Globals.java
+END
+RequestManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/RequestManager.java
+END
+MarketManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/MarketManager.java
+END

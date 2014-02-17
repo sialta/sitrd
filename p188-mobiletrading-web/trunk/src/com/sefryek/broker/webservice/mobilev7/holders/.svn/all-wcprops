@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/holders
+END
+WsOrderMessageHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/holders/WsOrderMessageHolder.java
+END
+WsOrderMessageWithFinancialHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/holders/WsOrderMessageWithFinancialHolder.java
+END

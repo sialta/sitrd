@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/sig
+END
+PrimaryUserID.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/sig/PrimaryUserID.java
+END
+IssuerKeyID.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/sig/IssuerKeyID.java
+END
+Revocable.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/sig/Revocable.java
+END
+SignatureExpirationTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/sig/SignatureExpirationTime.java
+END
+SignerUserID.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/sig/SignerUserID.java
+END
+TrustSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/sig/TrustSignature.java
+END
+Exportable.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/sig/Exportable.java
+END
+KeyFlags.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/sig/KeyFlags.java
+END
+NotationData.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/sig/NotationData.java
+END
+SignatureCreationTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/sig/SignatureCreationTime.java
+END
+PreferredAlgorithms.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/sig/PreferredAlgorithms.java
+END
+KeyExpirationTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/sig/KeyExpirationTime.java
+END
+EmbeddedSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/bcpg/sig/EmbeddedSignature.java
+END

@@ -1,0 +1,4 @@
+show full columns from outbound_messages\G
+
+
+alter table transaction convert to character set utf8 collate utf8_unicode_ci;

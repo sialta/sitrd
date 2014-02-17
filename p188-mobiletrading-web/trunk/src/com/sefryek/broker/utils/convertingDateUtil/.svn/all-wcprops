@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/utils/convertingDateUtil
+END
+DateConvertor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/utils/convertingDateUtil/DateConvertor.java
+END
+JalaliCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/utils/convertingDateUtil/JalaliCalendar.java
+END
+GregorianCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/utils/convertingDateUtil/GregorianCalendar.java
+END
+JalaliTimeZone.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/utils/convertingDateUtil/JalaliTimeZone.java
+END
+Calendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/utils/convertingDateUtil/Calendar.java
+END

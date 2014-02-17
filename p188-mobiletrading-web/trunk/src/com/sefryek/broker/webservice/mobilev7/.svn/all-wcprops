@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7
+END
+WsOrderActionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/WsOrderActionResponse.java
+END
+OrderListReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/OrderListReport.java
+END
+WsCirculationAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/WsCirculationAccount.java
+END
+WS_MobileV3Soap_BindingStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/WS_MobileV3Soap_BindingStub.java
+END
+MobileFinancialData.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/MobileFinancialData.java
+END
+NameData.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/NameData.java
+END
+Remain.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/Remain.java
+END
+OrderState.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/OrderState.java
+END
+ExchangeBoards.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/ExchangeBoards.java
+END
+WS_MobileV3Locator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/WS_MobileV3Locator.java
+END
+WS_MobileV3Soap12Stub.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/WS_MobileV3Soap12Stub.java
+END
+WS_MobileV3.asmx
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/WS_MobileV3.asmx
+END
+ExchangeSymbolsStateEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/ExchangeSymbolsStateEnum.java
+END
+ExchangeCompanies.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/ExchangeCompanies.java
+END
+WsCdsPortfolio.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/WsCdsPortfolio.java
+END
+GroupStateEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/GroupStateEnum.java
+END
+WS_MobileV3Soap_PortType.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/WS_MobileV3Soap_PortType.java
+END
+MobileOMSSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/MobileOMSSetting.java
+END
+MarketType.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/MarketType.java
+END
+ExchangeMarket.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/ExchangeMarket.java
+END
+WsOrderType.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/WsOrderType.java
+END
+SymbolPrice.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/SymbolPrice.java
+END
+WS_MobileV3.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/WS_MobileV3.java
+END
+WsOrderMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/WsOrderMessage.java
+END
+WsOrderSide.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/WsOrderSide.java
+END
+ExchangeSymbols.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/ExchangeSymbols.java
+END
+WsOrderMessageWithFinancial.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/WsOrderMessageWithFinancial.java
+END
+WsPersonInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/webservice/mobilev7/WsPersonInfo.java
+END

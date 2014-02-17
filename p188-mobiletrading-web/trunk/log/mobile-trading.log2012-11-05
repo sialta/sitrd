@@ -1,0 +1,7 @@
+2012-11-05 10:23:53,031 0    [pool-1-thread-1] INFO  com.sefryek.broker.webservice.RequestManager  - Start of calling login web service with customer usernme and password.
+2012-11-05 10:24:25,890 32859 [pool-1-thread-1] INFO  com.sefryek.broker.webservice.RequestManager  - person info is not null.
+2012-11-05 10:24:31,531 38500 [pool-1-thread-1] INFO  com.sefryek.broker.webservice.RequestManager  - The server date and time when device is logging is :1391-08-15 102430
+2012-11-05 10:24:35,546 42515 [pool-1-thread-1] INFO  com.sefryek.broker.utils.DateUtil  - ************************** The full persian date and time form mobile is: 1391-8-15-10-24-30
+2012-11-05 10:24:35,859 42828 [pool-1-thread-1] INFO  com.sefryek.broker.utils.DateUtil  - ************************** The full Gregorian date and time form mobile is: 2012-12-05 10:24:30
+2012-11-05 10:24:36,359 43328 [pool-1-thread-1] INFO  com.sefryek.broker.webservice.RequestManager  - The server date and time when device is logging is :2012-12-05 10:24:30
+2012-11-05 10:25:20,000 86969 [pool-1-thread-1] INFO  com.sefryek.broker.mobileHandler.MIDletHandler  - 7

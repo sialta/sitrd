@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/p188-mobiletrading-web/!svn/ver/30/trunk/src/com/sefryek/broker/mobileHandler/handlers
+END
+WatchListHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/mobileHandler/handlers/WatchListHandler.java
+END
+CompanyListHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/mobileHandler/handlers/CompanyListHandler.java
+END
+SupplyDemandHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/mobileHandler/handlers/SupplyDemandHandler.java
+END
+LoginHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/mobileHandler/handlers/LoginHandler.java
+END
+LogoutHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/mobileHandler/handlers/LogoutHandler.java
+END
+OrderHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/mobileHandler/handlers/OrderHandler.java
+END
+WatchListWithFirstQueueHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/p188-mobiletrading-web/!svn/ver/24/trunk/src/com/sefryek/broker/mobileHandler/handlers/WatchListWithFirstQueueHandler.java
+END
+HandlerConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/mobileHandler/handlers/HandlerConstants.java
+END
+OrderWithFinancialHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/mobileHandler/handlers/OrderWithFinancialHandler.java
+END
+MainIndexHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/mobileHandler/handlers/MainIndexHandler.java
+END
+StockBasketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/p188-mobiletrading-web/!svn/ver/22/trunk/src/com/sefryek/broker/mobileHandler/handlers/StockBasketHandler.java
+END
+BrokerListHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/p188-mobiletrading-web/!svn/ver/24/trunk/src/com/sefryek/broker/mobileHandler/handlers/BrokerListHandler.java
+END
+StockHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/mobileHandler/handlers/StockHandler.java
+END
+MessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/mobileHandler/handlers/MessageHandler.java
+END
+BestOfMarketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/mobileHandler/handlers/BestOfMarketHandler.java
+END
+BookHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/mobileHandler/handlers/BookHandler.java
+END
+MessageDetailsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/mobileHandler/handlers/MessageDetailsHandler.java
+END
+HistoryDataHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/p188-mobiletrading-web/!svn/ver/31/trunk/src/com/sefryek/broker/mobileHandler/handlers/HistoryDataHandler.java
+END
+StockHandlerWithFirstQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/p188-mobiletrading-web/!svn/ver/22/trunk/src/com/sefryek/broker/mobileHandler/handlers/StockHandlerWithFirstQueue.java
+END
+AccountHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/mobileHandler/handlers/AccountHandler.java
+END
+MarketInfoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/mobileHandler/handlers/MarketInfoHandler.java
+END
+FinancialProviderHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/p188-mobiletrading-web/!svn/ver/22/trunk/src/com/sefryek/broker/mobileHandler/handlers/FinancialProviderHandler.java
+END
+BestOfMarketHandlerWithFirstQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/p188-mobiletrading-web/!svn/ver/24/trunk/src/com/sefryek/broker/mobileHandler/handlers/BestOfMarketHandlerWithFirstQueue.java
+END

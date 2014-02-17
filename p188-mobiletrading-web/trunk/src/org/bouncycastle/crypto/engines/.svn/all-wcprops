@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/engines
+END
+BlowfishEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/engines/BlowfishEngine.java
+END
+AESEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/crypto/engines/AESEngine.java
+END

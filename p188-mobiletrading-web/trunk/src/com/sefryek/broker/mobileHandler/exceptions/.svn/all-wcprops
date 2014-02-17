@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/mobileHandler/exceptions
+END
+SessionExpirationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/com/sefryek/broker/mobileHandler/exceptions/SessionExpirationException.java
+END

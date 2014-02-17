@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD//EN"
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+    <session-factory>
+
+        <!-- Database connection settings -->
+        <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+        <property name="connection.url">jdbc:mysql://localhost:3306/mobilelifedev?useUnicode=true&amp;characterEncoding=UTF8</property>
+        <property name="connection.username">mobilelifedev</property>
+        <property name="connection.password">sefryek</property>
+
+        <!-- JDBC connection pool (use the built-in) -->
+        <property name="connection.pool_size">1</property>
+        <!-- SQL dialect -->
+        <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+        <!-- Echo all executed SQL to stdout -->
+        <property name="show_sql">false</property>
+
+        <!-- Mapping files -->
+        <mapping class="com.sefryek.life.model.Administrator"/>
+        <mapping class="com.sefryek.life.model.Device"/>
+        <mapping class="com.sefryek.life.model.DeviceHistory"/>
+        <mapping class="com.sefryek.life.model.User"/>
+        <mapping class="com.sefryek.life.model.UserHistory"/>
+        <mapping class="com.sefryek.life.model.UserProfile"/>
+        <mapping class="com.sefryek.life.model.UserDevice"/>
+        <mapping class="com.sefryek.life.model.Media"/>
+        <mapping class="com.sefryek.life.model.Category"/>
+        <mapping class="com.sefryek.life.model.Content"/>
+        <mapping class="com.sefryek.life.model.Comment"/>
+        <mapping class="com.sefryek.life.model.Bid"/>
+        <mapping class="com.sefryek.life.model.Transaction"/>
+        <mapping class="com.sefryek.life.model.Setting"/>
+        <mapping class="com.sefryek.life.model.SystemCurrency"/>
+        <mapping class="com.sefryek.life.model.ViolateContent"/>
+
+        <mapping class="com.sefryek.life.model.PayPalAccount"/>
+        <mapping class="com.sefryek.life.model.PayPalAccountHistory"/>
+
+        <mapping class="com.sefryek.life.model.ExchangeCurrency"/>
+        <mapping class="com.sefryek.life.model.UserComment"/>
+        <mapping class="com.sefryek.life.model.GeneralContent"/>
+        <mapping class="com.sefryek.life.model.Notification"/>
+
+        <!--<mapping class="com.sefryek.common.systemActivity.appender.dbAppender.model.SystemActivity"/>-->
+
+
+
+    </session-factory>
+</hibernate-configuration>

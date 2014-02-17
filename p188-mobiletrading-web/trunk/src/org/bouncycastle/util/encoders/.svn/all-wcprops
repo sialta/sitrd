@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/util/encoders
+END
+Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/util/encoders/Encoder.java
+END
+BufferedEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/util/encoders/BufferedEncoder.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/util/encoders/Base64.java
+END
+Base64Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/util/encoders/Base64Encoder.java
+END
+Hex.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/util/encoders/Hex.java
+END
+HexEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/util/encoders/HexEncoder.java
+END
+UrlBase64.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/util/encoders/UrlBase64.java
+END
+UrlBase64Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/util/encoders/UrlBase64Encoder.java
+END
+BufferedDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/util/encoders/BufferedDecoder.java
+END
+Translator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/util/encoders/Translator.java
+END
+HexTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/p188-mobiletrading-web/!svn/ver/1/trunk/src/org/bouncycastle/util/encoders/HexTranslator.java
+END
